@@ -18,8 +18,8 @@
 #### dg-table编写的Demo
 [demo地址](https://www.theputian.com/demo-dg-table/dist/index.html)
 <br>
-demo也已经上传在gitee上
-[demo的gitee地址](https://gitee.com/tccsg/demo-dg-table)
+demo也已经上传在github上
+[demo的github地址](https://github.com/tccsg/dg-table-demo)
 
 开发者可以通过npm安装
 ```
