@@ -1,5 +1,7 @@
 # dg-table
 
+### [关于兼容IE的解决方案](https://github.com/tccsg/dg-table-demo)
+
 #### 项目介绍
 基于ElementUI + Vue 开发的强大表头筛选器的表格，同时提供用户自定义筛选器
 <br>
@@ -263,5 +265,5 @@ showkey | 用于在列表中要显示的字段名 | string| - |-
 事件名      | 说明 | 参数 
 ----     |---- |----- 
 filter-change | 筛选条件改变时触发 | filters
-select-change | 多选场景下勾选条件改变触发 | selecs
+select-change | 多选场景下勾选条件改变触发 | selects
 page-change | 点击翻页页码改变触发 | page
